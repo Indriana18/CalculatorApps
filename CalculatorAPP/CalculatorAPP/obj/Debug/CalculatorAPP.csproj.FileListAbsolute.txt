@@ -1,0 +1,21 @@
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\bin\Debug\CalculatorAPP.exe.config
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\bin\Debug\CalculatorAPP.exe
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\bin\Debug\CalculatorAPP.pdb
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.csprojAssemblyReference.cache
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.FrmEntryCalculator.resources
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.FrmHasilPerhitungan.resources
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.Properties.Resources.resources
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.csproj.GenerateResource.cache
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.csproj.CoreCompileInputs.cache
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.exe
+D:\AMIKOM\SEMSTER 3\PL\CalculatorApp\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.pdb
+C:\Users\indriana damayanti\Documents\SEMESTER 3\PEMROGRAMAN LANJUT\SUBMIT\AplikasiKalkulator-master\CalculatorAPP\CalculatorAPP\bin\Debug\CalculatorAPP.exe.config
+C:\Users\indriana damayanti\Documents\SEMESTER 3\PEMROGRAMAN LANJUT\SUBMIT\AplikasiKalkulator-master\CalculatorAPP\CalculatorAPP\bin\Debug\CalculatorAPP.exe
+C:\Users\indriana damayanti\Documents\SEMESTER 3\PEMROGRAMAN LANJUT\SUBMIT\AplikasiKalkulator-master\CalculatorAPP\CalculatorAPP\bin\Debug\CalculatorAPP.pdb
+C:\Users\indriana damayanti\Documents\SEMESTER 3\PEMROGRAMAN LANJUT\SUBMIT\AplikasiKalkulator-master\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.csprojAssemblyReference.cache
+C:\Users\indriana damayanti\Documents\SEMESTER 3\PEMROGRAMAN LANJUT\SUBMIT\AplikasiKalkulator-master\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.FrmEntryCalculator.resources
+C:\Users\indriana damayanti\Documents\SEMESTER 3\PEMROGRAMAN LANJUT\SUBMIT\AplikasiKalkulator-master\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.FrmHasilPerhitungan.resources
+C:\Users\indriana damayanti\Documents\SEMESTER 3\PEMROGRAMAN LANJUT\SUBMIT\AplikasiKalkulator-master\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.Properties.Resources.resources
+C:\Users\indriana damayanti\Documents\SEMESTER 3\PEMROGRAMAN LANJUT\SUBMIT\AplikasiKalkulator-master\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.csproj.GenerateResource.cache
+C:\Users\indriana damayanti\Documents\SEMESTER 3\PEMROGRAMAN LANJUT\SUBMIT\AplikasiKalkulator-master\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.exe
+C:\Users\indriana damayanti\Documents\SEMESTER 3\PEMROGRAMAN LANJUT\SUBMIT\AplikasiKalkulator-master\CalculatorAPP\CalculatorAPP\obj\Debug\CalculatorAPP.pdb
